@@ -7,7 +7,7 @@ BIG-IP かんたんセットアップガイド
 
 - `F5 Advanced WAF v17.1 かんたんセットアップガイド <https://f5j-easy-setup-waf-17.readthedocs.io/>`__ 
 
-- `F5 SSL Orchestrator v15.1 かんたんセットアップガイド <https://f5j-easy-setup-sslo-15.readthedocs.io/>`__
+- `F5 SSL Orchestrator v17.1 かんたんセットアップガイド <https://f5j-easy-setup-sslo-17.readthedocs.io/>`__
 
 
 
