@@ -1,7 +1,7 @@
 BIG-IP かんたんセットアップガイド
 ================================================
 
-- `BIG-IP LTM v15.1 かんたんセットアップガイド <https://f5j-easy-setup-ltm-15.readthedocs.io/>`__ 
+- `BIG-IP LTM v17.1 かんたんセットアップガイド <https://f5j-easy-setup-ltm-17.readthedocs.io/>`__ 
 
 - `BIG-IP APM v17.1 かんたんセットアップガイド <https://f5j-easy-setup-apm-17.readthedocs.io/>`__ 
 
