@@ -1,8 +1,6 @@
 F5 Distributed Cloud (XC) セットアップガイド・ラボガイド
 ================================================
 
-- `XC チュートリアル <https://github.com/nakadaisuke/volterra-tutorial>`__ 
-
 - `XC セットアップガイド - Site編 <https://f5j-dc-site.readthedocs.io/>`__ 
 
 - `XC セットアップガイド - Mesh編 <https://f5j-dc-secure-mesh.readthedocs.io//>`__ 
