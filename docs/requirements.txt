@@ -3,3 +3,4 @@ recommonmark
 sphinxjp.themes.basicstrap
 sphinxcontrib-googleanalytics
 cloud_sptheme
+Jinja2<3.1
