@@ -9,6 +9,8 @@ F5 Distributed Cloud (XC) セットアップガイド・ラボガイド
 
 - `XC Bot Defense Connector for Amazon CloudFront セットアップガイド <https://f5j-xc-bd-cf-connector.readthedocs.io/>`__
 
+- `XC Client-Side Defense(CSD) セットアップガイド <https://f5j-xc-csd.readthedocs.io/>`__
+
 - `XC トラブルシューティング <https://github.com/nakadaisuke/dcs-trouble-shooting>`__
 
 
