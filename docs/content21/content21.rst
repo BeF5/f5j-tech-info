@@ -11,7 +11,7 @@ F5 Distributed Cloud (XC) セットアップガイド・ラボガイド
 
 - `XC Client-Side Defense(CSD) セットアップガイド <https://f5j-xc-csd.readthedocs.io/>`__
 
-- `XC DNS LB セットアップガイド <https://f5j-xc-dns.readthedocs.io/>`__
+- `XC DNS セットアップガイド <https://f5j-xc-dns.readthedocs.io/>`__
 
 - `XC トラブルシューティング <https://github.com/nakadaisuke/dcs-trouble-shooting>`__
 
