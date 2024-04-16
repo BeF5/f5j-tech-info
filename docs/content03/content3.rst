@@ -1,0 +1,12 @@
+F5 BIG-IP Next かんたんセットアップガイド
+================================================
+
+- `F5 BIG-IP Next LTM v20.2.0 かんたんセットアップガイド <https://f5j-easy-setup-next-ltm.readthedocs.io/>`__ 
+
+
+.. toctree::
+   :titlesonly:
+   :caption: コンテンツ
+   :glob:
+
+   
