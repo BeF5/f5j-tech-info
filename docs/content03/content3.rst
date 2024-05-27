@@ -3,6 +3,8 @@ F5 BIG-IP Next かんたんセットアップガイド
 
 - `F5 BIG-IP Next LTM v20.2.0 かんたんセットアップガイド <https://f5j-easy-setup-next-ltm.readthedocs.io/>`__ 
 
+- `F5 BIG-IP Next WAF v20.0 かんたんセットアップガイド <https://f5j-easy-setup-next-waf.readthedocs.io/>`__ 
+
 
 .. toctree::
    :titlesonly:
