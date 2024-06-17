@@ -7,6 +7,8 @@
 
 - `BIG-IP SSLO セットアップガイド i-FILTER 編 <https://f5j-sslo-ifilter.readthedocs.io/>`__ 
 
+- `BIG-IP SSLO セットアップガイド InterSafe WebFilter編 <https://f5j-sslo-iswf.readthedocs.io/>`__ 
+
 - `BIG-IP APM セットアップガイド PassLogicクラウド版 編 <https://f5j-apm-passlogiccloud.readthedocs.io/>`__ 
 
 .. toctree::
