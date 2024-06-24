@@ -6,7 +6,7 @@ F5 Webinar ライブラリ
 さらにご興味がある場合は、担当営業もしくは `こちらをクリック <https://www.f5.com/ja_jp/company/contact>`_ からお問合せください。
 
 
-- `Webinar ライブラリ <https://f5j-webinar.readthedocs.io/ja/latest/>`_
+- `Webinar 解説資料・動画ライブラリ <https://f5j-webinar.readthedocs.io/ja/latest/>`_
 
 
 .. toctree::
