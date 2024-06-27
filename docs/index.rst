@@ -18,7 +18,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
 その他参考リンク
 --------------------------------
 
-- F5 F5ネットワークジャパン テクニカルインフォTop : https://f5j-tech-info.readthedocs.io/
+- F5 テクニカルインフォTop : https://f5j-tech-info.readthedocs.io/
 - F5 Japan YouTube : https://www.youtube.com/channel/UCqX6rJEY6Ya8YbC8iqP34zg
 - F5 NGINX YouTube(英語) : https://www.youtube.com/@nginx_official
 
