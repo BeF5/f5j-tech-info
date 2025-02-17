@@ -9,7 +9,7 @@
 
 - `F5 Cloud Services Essential App Protect Service 簡単セットアップガイド <https://f5j-easy-setup-eap.readthedocs.io/>`__ 
 
-- `F5 F5 BIG-IP アーカイブライブラリ <https://f5j-bigip-archive.readthedocs.io/>`__ 
+- `F5 BIG-IP アーカイブライブラリ <https://f5j-bigip-archive.readthedocs.io/>`__ 
 
 
 .. toctree::
