@@ -11,6 +11,8 @@
 
 - `F5 BIG-IP アーカイブライブラリ <https://f5j-bigip-archive.readthedocs.io/>`__ 
 
+-  `F5 WAAP ラボガイド <https://f5j-dc-waap.readthedocs.io/>`__ 
+
 
 .. toctree::
    :titlesonly:
