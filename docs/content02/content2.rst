@@ -1,6 +1,6 @@
 BIG-IP TMOS ガイド
 ================================================
-最終更新日: 2024年6月26日
+最終更新日: 2025年10月17日
 
 
 BIG-IP TMOS かんたんセットアップガイド
@@ -10,7 +10,7 @@ BIG-IP TMOS かんたんセットアップガイド
 
 - `BIG-IP APM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-apm-17.readthedocs.io/>`__ 
 
-- `F5 Advanced WAF v17.1 かんたんセットアップガイド <https://f5j-easy-setup-waf-17.readthedocs.io/>`__ 
+- `F5 Advanced WAF v17.5 かんたんセットアップガイド <https://f5j-easy-setup-waf-17.readthedocs.io/>`__ 
 
 - `F5 SSL Orchestrator v17.5 かんたんセットアップガイド <https://f5j-easy-setup-sslo-17.readthedocs.io/>`__
 
