@@ -6,13 +6,13 @@ BIG-IP TMOS ガイド
 BIG-IP TMOS かんたんセットアップガイド
 --------------
 
-- `BIG-IP LTM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-ltm-17.readthedocs.io/>`__ 
+- `F5 BIG-IP LTM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-ltm-17.readthedocs.io/>`__ 
 
-- `BIG-IP APM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-apm-17.readthedocs.io/>`__ 
+- `F5 BIG-IP APM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-apm-17.readthedocs.io/>`__ 
 
-- `F5 Advanced WAF v17.5 かんたんセットアップガイド <https://f5j-easy-setup-waf-17.readthedocs.io/>`__ 
+- `F5 BIG-IP Advanced WAF v17.5 かんたんセットアップガイド <https://f5j-easy-setup-waf-17.readthedocs.io/>`__ 
 
-- `F5 SSL Orchestrator v17.5 かんたんセットアップガイド <https://f5j-easy-setup-sslo-17.readthedocs.io/>`__
+- `F5 BIG-IP SSL Orchestrator v17.5 かんたんセットアップガイド <https://f5j-easy-setup-sslo-17.readthedocs.io/>`__
 
 - `F5 BIG-IP AFM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-afm-17.readthedocs.io/>`__
 
