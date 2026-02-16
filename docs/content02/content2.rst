@@ -16,11 +16,12 @@ BIG-IP TMOS かんたんセットアップガイド
 
 - `F5 BIG-IP AFM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-afm-17.readthedocs.io/>`__
 
-- `BIG-IP TMOS お役立ちガイド <https://f5j-tmos-guide.readthedocs.io/>`__
 
 
-BIG-IP TMOS かんたんセットアップガイド
+BIG-IP TMOS お役立ちガイド
 --------------
+
+- `BIG-IP TMOS お役立ちガイド <https://f5j-tmos-guide.readthedocs.io/>`__
 
 
 .. toctree::
