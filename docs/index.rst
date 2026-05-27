@@ -20,6 +20,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
 --------------------------------
 - F5 Academy: F5 ADSP for AI and Modern Apps
 　〜アプリケーション基盤の構築や運用を学ぶ無償トレーニングプログラム〜
+
 　登録手順はこちらです。
  :download:`資料をダウンロードできます <images/F5 Academy_F5 ADSP for AI and Modern Apps_202605.pdf>`
 
