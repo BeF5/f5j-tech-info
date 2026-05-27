@@ -15,6 +15,16 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - F5 Cloud Docs: https://clouddocs.f5.com/
 - F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
 
+
+お役立ち情報
+--------------------------------
+F5
+- F5 Academy: F5 ADSP for AI and Modern Apps
+　〜アプリケーション基盤の構築や運用を学ぶ無償トレーニングプログラム〜
+　登録手順はこちらです。
+ :download:`資料をダウンロードできます <images/F5 Academy_F5 ADSP for AI and Modern Apps_202605.pdf>`
+
+
 その他参考リンク
 --------------------------------
 
