@@ -26,7 +26,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
  :download:`資料をダウンロードできます <images/F5 Academy_F5 ADSP for AI and Modern Apps_202606.pdf>`
 
 　登録手順はこちらです。
- :download:`資料をダウンロードできます <images/F5 Academy_F5 ADSP for AI and Modern Apps_202605.pdf>`
+ :download:`資料をダウンロードできます <images/F5 Academy_F5 ADSP for AI and Modern Apps_202606.pdf>`
 
 
 その他参考リンク
