@@ -6,7 +6,7 @@ BIG-IP TMOS ガイド
 BIG-IP TMOS かんたんセットアップガイド
 --------------
 
-- `F5 BIG-IP LTM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-ltm-17.readthedocs.io/>`__ 
+- `F5 BIG-IP LTM v21.1 かんたんセットアップガイド <https://f5j-easy-setup-ltm-21.readthedocs.io/>`__ 
 
 - `F5 BIG-IP APM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-apm-17.readthedocs.io/>`__ 
 
