@@ -14,7 +14,7 @@ BIG-IP TMOS かんたんセットアップガイド
 
 - `F5 BIG-IP Advanced WAF v17.5 かんたんセットアップガイド <https://f5j-easy-setup-waf-17.readthedocs.io/>`__ 
 
-- `F5 BIG-IP SSL Orchestrator v17.5 かんたんセットアップガイド <https://f5j-easy-setup-sslo-17.readthedocs.io/>`__
+- `F5 BIG-IP SSL Orchestrator v21.1 かんたんセットアップガイド <https://f5j-easy-setup-sslo-21.readthedocs.io/>`__
 
 - `F5 BIG-IP AFM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-afm-17.readthedocs.io/>`__
 
