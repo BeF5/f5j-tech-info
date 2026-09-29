@@ -10,7 +10,7 @@ BIG-IP TMOS かんたんセットアップガイド
 
 - `F5 BIG-IP APM v17.5 かんたんセットアップガイド <https://f5j-easy-setup-apm-17.readthedocs.io/>`__ 
 
-- `F5 BIG-IP ZTA(APM) v21.1 かんたんセットアップガイド (工事中) <https://f5j-easy-setup-zta-21.readthedocs.io/>`__ 
+- `F5 BIG-IP ZTA(APM) v21.1 かんたんセットアップガイド (工事中) `__ 
 
 - `F5 BIG-IP Advanced WAF v21.1 かんたんセットアップガイド <https://f5j-easy-setup-waf-21.readthedocs.io/>`__ 
 
